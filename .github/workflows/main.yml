@@ -1,0 +1,27 @@
+name: Update diensten.xml from kerkdienstenmiddelburg.nl
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:      # allows manual run
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch latest feed
+        run: |
+          curl -fsSL https://www.kerkdienstenmiddelburg.nl/feed -o diensten.xml
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add diensten.xml
+          git diff --cached --quiet || git commit -m "Update diensten.xml"
+          git push
