@@ -18,7 +18,7 @@ jobs:
 
       - name: Fetch latest feed
         run: |
-          curl -fsSL https://www.kerkdienstenmiddelburg.nl/feed -o diensten.xml
+          curl -fsSL https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service -o diensten.xml
 
       - name: Commit if changed
         run: |
