@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Sat, 27 Dec 2025 12:32:20 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Dec 2025 12:34:03 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -480,6 +480,33 @@
                     <time>10:00</time>
                     <predecessor>Andere</predecessor>
                     <predecessor_other>ds. Pim Steenbergen</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>dhr. P. Riemens te Arnemuiden</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>dhr. P. Riemens te Arnemuiden</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Kinderdienst</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. G.J. Mink te Sliedrecht</predecessor_other>
                     <description></description>
                 </service>
                 </services>	</item>
