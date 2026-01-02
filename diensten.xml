@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Mon, 29 Dec 2025 22:22:16 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Dec 2025 12:41:18 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,38 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.3</generator>
 	<item>
-		<title>Donderdag 1-januari-2026</title>
-		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/donderdag-1-januari-2026/</link>
-		
-		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
-		<pubDate>Thu, 27 Nov 2025 20:28:31 +0000</pubDate>
-				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1229</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<date>01-01-2026</date><services>                <service>
-                    <township>Nieuwe Kerkgemeente</township>
-                    <location_id>1</location_id>
-                    <location>Nieuwe Kerk</location>
-                    <time>10:30</time>
-                    <predecessor>ds. Chris Kors</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description>Nieuwjaar</description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>10:00</time>
-                    <predecessor>ds. B.J.P. de Bruin</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description>Nieuwjaar</description>
-                </service>
-                </services>	</item>
-		<item>
 		<title>Zondag 4-januari-2026</title>
 		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-4-januari-2026/</link>
 		
