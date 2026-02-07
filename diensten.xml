@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Sat, 07 Feb 2026 11:57:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Feb 2026 20:16:12 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -343,7 +343,7 @@
                     <location>Ontmoetingskerk</location>
                     <time>09:00</time>
                     <predecessor>ds. B.J.P. de Bruin</predecessor>
-                    <predecessor_other>ds. L. Wüllschleger (Ermelo)</predecessor_other>
+                    <predecessor_other></predecessor_other>
                     <description>Heilig Avondmaal</description>
                 </service>
                                 <service>
@@ -352,8 +352,8 @@
                     <location>Ontmoetingskerk</location>
                     <time>11:00</time>
                     <predecessor>ds. B.J.P. de Bruin</predecessor>
-                    <predecessor_other>ds. L. Wüllschleger (Ermelo)</predecessor_other>
-                    <description>Heilig AVondmaal</description>
+                    <predecessor_other></predecessor_other>
+                    <description>Heilig Avondmaal</description>
                 </service>
                                 <service>
                     <township>De Ontmoeting</township>
