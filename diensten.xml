@@ -20,65 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.3</generator>
 	<item>
-		<title>Zondag 8-februari-2026</title>
-		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-8-februari-2026/</link>
-		
-		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
-		<pubDate>Fri, 19 Dec 2025 18:31:48 +0000</pubDate>
-				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1237</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<date>08-02-2026</date><services>                <service>
-                    <township>Nieuwe Kerkgemeente</township>
-                    <location_id>1</location_id>
-                    <location>Nieuwe Kerk</location>
-                    <time>08:45</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>dhr. Kees Kool</predecessor_other>
-                    <description>Morgengebed</description>
-                </service>
-                                <service>
-                    <township>Nieuwe Kerkgemeente</township>
-                    <location_id>1</location_id>
-                    <location>Nieuwe Kerk</location>
-                    <time>10:00</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>ds. Hans Koops te Utrecht</predecessor_other>
-                    <description></description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>09:00</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>Prop J.J. Jacobse (Middelburg)</predecessor_other>
-                    <description></description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>11:00</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>Prop J.J. Jacobse (Middelburg)</predecessor_other>
-                    <description></description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>18:00</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>ds. van Mourik (Krabbendijke)</predecessor_other>
-                    <description></description>
-                </service>
-                </services>	</item>
-		<item>
 		<title>Zondag 15-februari-2026</title>
 		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-15-februari-2026/</link>
 		
@@ -454,6 +395,29 @@
                     <predecessor>Andere</predecessor>
                     <predecessor_other>ds. J.H. Reijm te Rotterdam-Hillegersberg</predecessor_other>
                     <description></description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Woensdag 18-maart-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/woensdag-18-maart-2026/</link>
+		
+		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2026 12:10:14 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1250</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>18-03-2026</date><services>                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>19:30</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>dhr. Peter Morée</predecessor_other>
+                    <description>Vesper</description>
                 </service>
                 </services>	</item>
 	</channel>
