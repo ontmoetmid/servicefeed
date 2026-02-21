@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Thu, 19 Feb 2026 18:42:49 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Feb 2026 11:51:18 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -119,7 +119,7 @@
                     <location_id>1</location_id>
                     <location>Nieuwe Kerk</location>
                     <time>10:00</time>
-                    <predecessor>ds. Jan Nauta</predecessor>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
                     <predecessor_other></predecessor_other>
                     <description></description>
                 </service>
@@ -130,7 +130,7 @@
                     <time>09:00</time>
                     <predecessor>ds. B.J.P. de Bruin</predecessor>
                     <predecessor_other></predecessor_other>
-                    <description>Focusdienst 6</description>
+                    <description></description>
                 </service>
                                 <service>
                     <township>De Ontmoeting</township>
@@ -139,7 +139,7 @@
                     <time>11:00</time>
                     <predecessor>ds. B.J.P. de Bruin</predecessor>
                     <predecessor_other></predecessor_other>
-                    <description>Focusdienst 6</description>
+                    <description></description>
                 </service>
                                 <service>
                     <township>De Ontmoeting</township>
@@ -376,7 +376,7 @@
                     <time>09:00</time>
                     <predecessor>ds. B.J.P. de Bruin</predecessor>
                     <predecessor_other></predecessor_other>
-                    <description></description>
+                    <description>Focusdienst 6</description>
                 </service>
                                 <service>
                     <township>De Ontmoeting</township>
@@ -385,7 +385,7 @@
                     <time>11:00</time>
                     <predecessor>ds. B.J.P. de Bruin</predecessor>
                     <predecessor_other></predecessor_other>
-                    <description></description>
+                    <description>Focusdienst 6</description>
                 </service>
                                 <service>
                     <township>De Ontmoeting</township>
