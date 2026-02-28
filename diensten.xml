@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Fri, 27 Feb 2026 18:36:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 Feb 2026 11:49:11 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -392,9 +392,32 @@
                     <location_id>4</location_id>
                     <location>Ontmoetingskerk</location>
                     <time>18:00</time>
-                    <predecessor>dhr. P. Riemens te Arnemuiden</predecessor>
+                    <predecessor>dhr. P. Riemens (Arnemuiden)</predecessor>
                     <predecessor_other></predecessor_other>
                     <description></description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Goede vrijdag 3-april-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/goede-vrijdag-3-april-2026/</link>
+		
+		<dc:creator><![CDATA[Adri Matthijsse]]></dc:creator>
+		<pubDate>Sat, 28 Feb 2026 11:49:11 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1271</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>03-04-2026</date><services>                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>19:30</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Goede vrijdag</description>
                 </service>
                 </services>	</item>
 	</channel>
