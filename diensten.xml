@@ -20,29 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.3</generator>
 	<item>
-		<title>Woensdag 4-maart-2026</title>
-		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/woensdag-4-maart-2026/</link>
-		
-		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 11:19:53 +0000</pubDate>
-				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1246</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<date>04-03-2026</date><services>                <service>
-                    <township>Nieuwe Kerkgemeente</township>
-                    <location_id>1</location_id>
-                    <location>Nieuwe Kerk</location>
-                    <time>19:30</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>mevr. Anneke Duvekot-Bimmel</predecessor_other>
-                    <description>Vesper</description>
-                </service>
-                </services>	</item>
-		<item>
 		<title>Zondag 8-maart-2026</title>
 		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-8-maart-2026/</link>
 		
@@ -409,6 +386,29 @@
                     <predecessor>Andere</predecessor>
                     <predecessor_other>kand. G.A. Slabbekoorn (Goes)</predecessor_other>
                     <description>Pasen</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>2e Paasdag 6-april-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/2e-paasdag-6-april-2026/</link>
+		
+		<dc:creator><![CDATA[Adri Matthijsse]]></dc:creator>
+		<pubDate>Sat, 28 Feb 2026 11:55:54 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1274</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>06-04-2026</date><services>                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>10:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>Zangdienst</predecessor_other>
+                    <description>met kinderkoor de Ontmoeting</description>
                 </service>
                 </services>	</item>
 	</channel>
