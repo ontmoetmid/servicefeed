@@ -20,65 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.3</generator>
 	<item>
-		<title>Zondag 8-maart-2026</title>
-		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-8-maart-2026/</link>
-		
-		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 11:22:07 +0000</pubDate>
-				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1247</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<date>08-03-2026</date><services>                <service>
-                    <township>Nieuwe Kerkgemeente</township>
-                    <location_id>1</location_id>
-                    <location>Nieuwe Kerk</location>
-                    <time>08:45</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>dhr. Martin Haverkamp</predecessor_other>
-                    <description>Morgengebed</description>
-                </service>
-                                <service>
-                    <township>Nieuwe Kerkgemeente</township>
-                    <location_id>1</location_id>
-                    <location>Nieuwe Kerk</location>
-                    <time>14:30</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>ds. Jan-Willem Leurgans te Ermelo</predecessor_other>
-                    <description>Bevestigingsdienst Gerard Ekelmans</description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>09:00</time>
-                    <predecessor>ds. B.J.P. de Bruin</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description>Heilig Avondmaal</description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>11:00</time>
-                    <predecessor>ds. B.J.P. de Bruin</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description>Heilig Avondmaal</description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>18:00</time>
-                    <predecessor>ds. B.J.P. de Bruin</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description>Heilige Doop</description>
-                </service>
-                </services>	</item>
-		<item>
 		<title>Woensdag 11-maart-2026</title>
 		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/woensdag-11-maart-2026/</link>
 		
@@ -409,6 +350,47 @@
                     <predecessor>Andere</predecessor>
                     <predecessor_other>Zangdienst</predecessor_other>
                     <description>met kinderkoor de Ontmoeting</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 12-april-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-12-april-2026/</link>
+		
+		<dc:creator><![CDATA[Adri Matthijsse]]></dc:creator>
+		<pubDate>Sat, 28 Feb 2026 11:53:26 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1273</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>12-04-2026</date><services>                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>dr. P.J. Visser ('s-Gravenhage)</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>dr. P.J. Visser ('s-Gravenhage)</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
                 </service>
                 </services>	</item>
 	</channel>
