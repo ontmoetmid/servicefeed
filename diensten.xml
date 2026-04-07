@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Mon, 30 Mar 2026 18:06:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Apr 2026 12:21:16 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -38,7 +38,7 @@
                     <location>Nieuwe Kerk</location>
                     <time>10:00</time>
                     <predecessor>ds. Gerard Ekelmans</predecessor>
-                    <predecessor_other>dr. P.J. Visser ('s-Gravenhage)</predecessor_other>
+                    <predecessor_other></predecessor_other>
                     <description></description>
                 </service>
                                 <service>
