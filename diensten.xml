@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Thu, 16 Apr 2026 20:23:39 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 May 2026 21:32:48 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -50,6 +50,33 @@
                     <predecessor_other></predecessor_other>
                     <description></description>
                 </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>focusdienst 7</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>focusdienst 7</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. K. van Velzen te Blaricum</predecessor_other>
+                    <description></description>
+                </service>
                 </services>	</item>
 		<item>
 		<title>Hemelvaart 14-mei-2026</title>
@@ -72,6 +99,24 @@
                     <predecessor>ds. Chris Kors</predecessor>
                     <predecessor_other></predecessor_other>
                     <description>Hemelvaart</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Hemelvaartsdag</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Hemelvaartsdag</description>
                 </service>
                 </services>	</item>
 		<item>
@@ -96,6 +141,33 @@
                     <predecessor_other>ds. Pim Steenbergen</predecessor_other>
                     <description>m.m.v. gospelkoor Inspiration</description>
                 </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>kand. G.A. Slabbekoorn (Goes)</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>kand. G.A. Slabbekoorn (Goes)</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. L. Wüllschleger (Ermelo)</predecessor_other>
+                    <description></description>
+                </service>
                 </services>	</item>
 		<item>
 		<title>Zondag 24-mei-2026</title>
@@ -117,6 +189,33 @@
                     <time>10:00</time>
                     <predecessor>ds. Gerard Ekelmans</predecessor>
                     <predecessor_other>dhr. Jan Jacobse</predecessor_other>
+                    <description>Pinksteren</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>ds. S.A. Doolaard (Kapelle)</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Pinksteren</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>ds. S.A. Doolaard (Kapelle)</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Pinksteren</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. E. van den Ham te Zoetermeer</predecessor_other>
                     <description>Pinksteren</description>
                 </service>
                 </services>	</item>
@@ -141,6 +240,238 @@
                     <predecessor>Andere</predecessor>
                     <predecessor_other>ds. Jörg Buller</predecessor_other>
                     <description>Trinitatis</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. A.H. van Mourik te Krabbendijke</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Belijdenisdienst</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Belijdenisdienst</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 7-juni-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-7-juni-2026/</link>
+		
+		<dc:creator><![CDATA[Adri Matthijsse]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 21:26:30 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1291</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>07-06-2026</date><services>                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. A.J. Mouw te Hendrik-Ido-Ambacht</predecessor_other>
+                    <description></description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 14-juni-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-14-juni-2026/</link>
+		
+		<dc:creator><![CDATA[Adri Matthijsse]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 21:28:01 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1292</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>14-06-2026</date><services>                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>dhr. P. Riemens (Arnemuiden)</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>dhr. P. Riemens (Arnemuiden)</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Kinderdienst</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Heilige Doop</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 21-juni-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-21-juni-2026/</link>
+		
+		<dc:creator><![CDATA[Adri Matthijsse]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 21:29:50 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1293</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>21-06-2026</date><services>                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>VHA</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>VHA/Jongerendienst</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. B.A.Belder te Brakel</predecessor_other>
+                    <description></description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 28-juni-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-28-juni-2026/</link>
+		
+		<dc:creator><![CDATA[Adri Matthijsse]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 21:31:14 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1294</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>28-06-2026</date><services>                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Heilig Avondmaal</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Heilig Avondmaal</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Dankzegging Heilig Avondmaal</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 5-juli-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-5-juli-2026/</link>
+		
+		<dc:creator><![CDATA[Adri Matthijsse]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 21:32:48 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1295</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>05-07-2026</date><services>                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>dhr. P. Riemens (Arnemuiden)</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>dhr. P. Riemens (Arnemuiden)</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Bevestiging ambtsdragers</description>
                 </service>
                 </services>	</item>
 	</channel>
