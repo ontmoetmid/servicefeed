@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 May 2026 20:28:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 May 2026 07:25:12 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -38,7 +38,7 @@
                     <location>Nieuwe Kerk</location>
                     <time>10:00</time>
                     <predecessor>ds. Gerard Ekelmans</predecessor>
-                    <predecessor_other>dhr. Jan Jacobse</predecessor_other>
+                    <predecessor_other></predecessor_other>
                     <description>Pinksteren</description>
                 </service>
                                 <service>
