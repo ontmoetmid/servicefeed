@@ -20,56 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.0</generator>
 	<item>
-		<title>Zondag 5-juli-2026</title>
-		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-5-juli-2026/</link>
-		
-		<dc:creator><![CDATA[Adri Matthijsse]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 21:32:48 +0000</pubDate>
-				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1295</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<date>05-07-2026</date><services>                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>09:00</time>
-                    <predecessor>dhr. P. Riemens (Arnemuiden)</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description></description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>11:00</time>
-                    <predecessor>dhr. P. Riemens (Arnemuiden)</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description></description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>18:00</time>
-                    <predecessor>ds. B.J.P. de Bruin</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description>Bevestiging ambtsdragers</description>
-                </service>
-                                <service>
-                    <township>Nieuwe Kerkgemeente</township>
-                    <location_id>1</location_id>
-                    <location>Nieuwe Kerk</location>
-                    <time>10:00</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>ds. Bert Kuipers te Rotterdam</predecessor_other>
-                    <description></description>
-                </service>
-                </services>	</item>
-		<item>
 		<title>Zondag 12-juli-2026</title>
 		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-12-juli-2026/</link>
 		
