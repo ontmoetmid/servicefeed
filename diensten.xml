@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Fri, 03 Jul 2026 10:40:10 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Aug 2026 19:08:55 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -116,6 +116,226 @@
                     <time>10:00</time>
                     <predecessor>ds. Gerard Ekelmans</predecessor>
                     <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>19:30</time>
+                    <predecessor>ds. Gerard Ekelmans</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Stadsgebed</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 6-september-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-6-september-2026/</link>
+		
+		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 19:01:14 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1312</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>06-09-2026</date><services>                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>08:45</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>dhr. Kees Kool</predecessor_other>
+                    <description>Morgengebed</description>
+                </service>
+                                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>10:00</time>
+                    <predecessor>ds. Gerard Ekelmans</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 13-september-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-13-september-2026/</link>
+		
+		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 19:02:02 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1313</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>13-09-2026</date><services>                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>10:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. Chris Kors en ds. Gerard Ekelmans</predecessor_other>
+                    <description>Startzondag. m.m.v. de cantorij o.l.v. Riet de Vlieger</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 20-september-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-20-september-2026/</link>
+		
+		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 19:03:53 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1314</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>20-09-2026</date><services>                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>10:00</time>
+                    <predecessor>ds. Chris Kors</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Heilig Avondmaal</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 27-september-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-27-september-2026/</link>
+		
+		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 19:05:07 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1315</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>27-09-2026</date><services>                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>10:00</time>
+                    <predecessor>ds. Gerard Ekelmans</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>19:30</time>
+                    <predecessor>dhr. Johan de Koning</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Stadsgebed</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 4-oktober-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-4-oktober-2026/</link>
+		
+		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 19:06:29 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1316</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>04-10-2026</date><services>                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>10:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. Joep Dubbink</predecessor_other>
+                    <description>Zondag Kerk &amp; Israël</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 11-oktober-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-11-oktober-2026/</link>
+		
+		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 19:07:23 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1317</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>11-10-2026</date><services>                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>08:45</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>Mevr. Anneke Duvekot-Bimmel</predecessor_other>
+                    <description>Morgengebed</description>
+                </service>
+                                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>10:00</time>
+                    <predecessor>ds. Chris Kors</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Lutherse liturgie. m.m.v. de cantorij o.l.v. Riet de Vlieger</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 18-oktober-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-18-oktober-2026/</link>
+		
+		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 19:08:10 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1318</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>18-10-2026</date><services>                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>10:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. Petra van Oosten</predecessor_other>
+                    <description></description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 25-oktober-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-25-oktober-2026/</link>
+		
+		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 19:08:55 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1319</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>25-10-2026</date><services>                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>10:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. Jan Nauta</predecessor_other>
                     <description></description>
                 </service>
                                 <service>
