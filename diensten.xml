@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Fri, 21 Aug 2026 19:08:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Aug 2026 19:55:06 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -159,6 +159,33 @@
                     <predecessor_other></predecessor_other>
                     <description></description>
                 </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. A.J. Mouw te Hendrik Ido Ambacht</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. A.J. Mouw te Hendrik Ido Ambacht</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Heilige Doop</description>
+                </service>
                 </services>	</item>
 		<item>
 		<title>Zondag 13-september-2026</title>
@@ -182,6 +209,24 @@
                     <predecessor_other>ds. Chris Kors en ds. Gerard Ekelmans</predecessor_other>
                     <description>Startzondag. m.m.v. de cantorij o.l.v. Riet de Vlieger</description>
                 </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Heilig Avondmaal</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Heilig Avondmaal</description>
+                </service>
                 </services>	</item>
 		<item>
 		<title>Zondag 20-september-2026</title>
@@ -204,6 +249,33 @@
                     <predecessor>ds. Chris Kors</predecessor>
                     <predecessor_other></predecessor_other>
                     <description>Heilig Avondmaal</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Startzondag</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Startzondag</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. J.H. Reijm te Rotterdam-Hillersberg</predecessor_other>
+                    <description></description>
                 </service>
                 </services>	</item>
 		<item>
@@ -237,6 +309,33 @@
                     <predecessor_other></predecessor_other>
                     <description>Stadsgebed</description>
                 </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>kand. W. Brouwer te Middelburg</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>kand. W. Brouwer te Middelburg</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. P. van de Voorde te Giessendam-Hardingsveld</predecessor_other>
+                    <description></description>
+                </service>
                 </services>	</item>
 		<item>
 		<title>Zondag 4-oktober-2026</title>
@@ -259,6 +358,33 @@
                     <predecessor>Andere</predecessor>
                     <predecessor_other>ds. Joep Dubbink</predecessor_other>
                     <description>Zondag Kerk &amp; Israël</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>dhr. P. Riemens (Arnemuiden)</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>dhr. P. Riemens (Arnemuiden)</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
                 </service>
                 </services>	</item>
 		<item>
@@ -292,6 +418,33 @@
                     <predecessor_other></predecessor_other>
                     <description>Lutherse liturgie. m.m.v. de cantorij o.l.v. Riet de Vlieger</description>
                 </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Focusdienst 1</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Focusdienst 1</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. K. van Velzen te Blaricum</predecessor_other>
+                    <description></description>
+                </service>
                 </services>	</item>
 		<item>
 		<title>Zondag 18-oktober-2026</title>
@@ -313,6 +466,33 @@
                     <time>10:00</time>
                     <predecessor>Andere</predecessor>
                     <predecessor_other>ds. Petra van Oosten</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. A.S.N. Noorland	te Goudriaan-Ottoland</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. A.S.N. Noorland	te Goudriaan-Ottoland</predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>ds. S.A. Doolaard (Kapelle)</predecessor>
+                    <predecessor_other></predecessor_other>
                     <description></description>
                 </service>
                 </services>	</item>
@@ -346,6 +526,33 @@
                     <predecessor>ds. Gerard Ekelmans</predecessor>
                     <predecessor_other></predecessor_other>
                     <description>Stadsgebed</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>09:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description></description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>11:00</time>
+                    <predecessor>ds. B.J.P. de Bruin</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>Jongerendienst</description>
+                </service>
+                                <service>
+                    <township>De Ontmoeting</township>
+                    <location_id>4</location_id>
+                    <location>Ontmoetingskerk</location>
+                    <time>18:00</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. C. Bijman te Arnemuiden</predecessor_other>
+                    <description></description>
                 </service>
                 </services>	</item>
 	</channel>
