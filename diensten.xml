@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Fri, 21 Aug 2026 19:55:06 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 27 Sep 2026 07:42:50 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,8 +37,8 @@
                     <location_id>1</location_id>
                     <location>Nieuwe Kerk</location>
                     <time>10:00</time>
-                    <predecessor>ds. Gerard Ekelmans</predecessor>
-                    <predecessor_other></predecessor_other>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>ds. Elly van Kuijk, voorg. Koorkerk</predecessor_other>
                     <description></description>
                 </service>
                                 <service>
