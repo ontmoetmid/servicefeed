@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Wed, 30 Sep 2026 19:42:07 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Oct 2026 15:19:59 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -64,8 +64,8 @@
                     <location_id>4</location_id>
                     <location>Ontmoetingskerk</location>
                     <time>18:00</time>
-                    <predecessor>ds. B.J.P. de Bruin</predecessor>
-                    <predecessor_other></predecessor_other>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>Ds. N.W. van den Houten (Bruinisse)</predecessor_other>
                     <description></description>
                 </service>
                 </services>	</item>
