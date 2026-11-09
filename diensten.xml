@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Thu, 05 Nov 2026 21:05:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Nov 2026 21:06:34 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,65 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.1.4</generator>
 	<item>
-		<title>Zondag 8-november-2026</title>
-		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-8-november-2026/</link>
-		
-		<dc:creator><![CDATA[Adri Matthijsse]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 17:25:13 +0000</pubDate>
-				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1324</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<date>08-11-2026</date><services>                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>09:00</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>ds. J.J. Jacobse (Noord-Beveland)</predecessor_other>
-                    <description></description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>11:00</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>ds. J.J. Jacobse (Noord-Beveland)</predecessor_other>
-                    <description></description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>18:00</time>
-                    <predecessor>ds. B.J.P. de Bruin</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description></description>
-                </service>
-                                <service>
-                    <township>Nieuwe Kerkgemeente</township>
-                    <location_id>1</location_id>
-                    <location>Nieuwe Kerk</location>
-                    <time>08:45</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>ds. Marga Haas</predecessor_other>
-                    <description>Morgengebed</description>
-                </service>
-                                <service>
-                    <township>Nieuwe Kerkgemeente</township>
-                    <location_id>1</location_id>
-                    <location>Nieuwe Kerk</location>
-                    <time>10:00</time>
-                    <predecessor>ds. Chris Kors</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description></description>
-                </service>
-                </services>	</item>
-		<item>
 		<title>Zondag 15-november-2026</title>
 		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-15-november-2026/</link>
 		
@@ -400,6 +341,29 @@
                     <predecessor>ds. Chris Kors</predecessor>
                     <predecessor_other></predecessor_other>
                     <description>Vesper m.m.v. Karin de Boef, piano</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Zondag 20-december-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-20-december-2026/</link>
+		
+		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 21:06:34 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1336</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>20-12-2026</date><services>                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>10:00</time>
+                    <predecessor>ds. Gerard Ekelmans</predecessor>
+                    <predecessor_other></predecessor_other>
+                    <description>4e advent m.m.v. de cantorij o.l.v. Riet de Vlieger</description>
                 </service>
                 </services>	</item>
 	</channel>
