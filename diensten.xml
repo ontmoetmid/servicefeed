@@ -12,7 +12,7 @@
 	<atom:link href="https://www.kerkdienstenmiddelburg.nl/feed/?post_type=service" rel="self" type="application/rss+xml" />
 	<link>https://www.kerkdienstenmiddelburg.nl</link>
 	<description></description>
-	<lastBuildDate>Thu, 05 Nov 2026 21:06:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Nov 2026 16:54:23 +0000</lastBuildDate>
 	<language>nl-NL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -122,7 +122,7 @@
                     <township>Nieuwe Kerkgemeente</township>
                     <location_id>1</location_id>
                     <location>Nieuwe Kerk</location>
-                    <time>15:30</time>
+                    <time>16:30</time>
                     <predecessor>ds. Gerard Ekelmans</predecessor>
                     <predecessor_other></predecessor_other>
                     <description>Cantatedienst</description>
