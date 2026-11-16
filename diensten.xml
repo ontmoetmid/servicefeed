@@ -20,56 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.1.4</generator>
 	<item>
-		<title>Zondag 15-november-2026</title>
-		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-15-november-2026/</link>
-		
-		<dc:creator><![CDATA[Adri Matthijsse]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 17:27:01 +0000</pubDate>
-				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1325</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<date>15-11-2026</date><services>                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>09:00</time>
-                    <predecessor>ds. B.J.P. de Bruin</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description>Focusdienst 2/vHA</description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>11:00</time>
-                    <predecessor>ds. B.J.P. de Bruin</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description>Focusdienst 2/vHA</description>
-                </service>
-                                <service>
-                    <township>De Ontmoeting</township>
-                    <location_id>4</location_id>
-                    <location>Ontmoetingskerk</location>
-                    <time>18:00</time>
-                    <predecessor>Andere</predecessor>
-                    <predecessor_other>prop. H. Russcher (Hendrik Ido Ambacht)</predecessor_other>
-                    <description></description>
-                </service>
-                                <service>
-                    <township>Nieuwe Kerkgemeente</township>
-                    <location_id>1</location_id>
-                    <location>Nieuwe Kerk</location>
-                    <time>10:00</time>
-                    <predecessor>ds. Gerard Ekelmans</predecessor>
-                    <predecessor_other></predecessor_other>
-                    <description>Heilig Avondmaal</description>
-                </service>
-                </services>	</item>
-		<item>
 		<title>Zondag 22-november-2026</title>
 		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/zondag-22-november-2026/</link>
 		
@@ -364,6 +314,29 @@
                     <predecessor>ds. Gerard Ekelmans</predecessor>
                     <predecessor_other></predecessor_other>
                     <description>4e advent m.m.v. de cantorij o.l.v. Riet de Vlieger</description>
+                </service>
+                </services>	</item>
+		<item>
+		<title>Woensdag 23-december-2026</title>
+		<link>https://www.kerkdienstenmiddelburg.nl/kerkdienst/woensdag-23-december-2026/</link>
+		
+		<dc:creator><![CDATA[Sander Goudswaard]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 21:07:16 +0000</pubDate>
+				<guid isPermaLink="false">https://www.kerkdienstenmiddelburg.nl/?post_type=service&#038;p=1337</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<date>23-12-2026</date><services>                <service>
+                    <township>Nieuwe Kerkgemeente</township>
+                    <location_id>1</location_id>
+                    <location>Nieuwe Kerk</location>
+                    <time>19:30</time>
+                    <predecessor>Andere</predecessor>
+                    <predecessor_other>mevr. Anneke Duvekot</predecessor_other>
+                    <description>Vesper</description>
                 </service>
                 </services>	</item>
 	</channel>
